@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\bin\Debug\net8.0\Lab2Tkachenko10.exe
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\bin\Debug\net8.0\Lab2Tkachenko10.deps.json
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\bin\Debug\net8.0\Lab2Tkachenko10.runtimeconfig.json
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\bin\Debug\net8.0\Lab2Tkachenko10.dll
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\bin\Debug\net8.0\Lab2Tkachenko10.pdb
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\obj\Debug\net8.0\Lab2Tkachenko10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\obj\Debug\net8.0\Lab2Tkachenko10.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\obj\Debug\net8.0\Lab2Tkachenko10.AssemblyInfo.cs
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\obj\Debug\net8.0\Lab2Tkachenko10.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\obj\Debug\net8.0\Lab2Tkachenko10.dll
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\obj\Debug\net8.0\refint\Lab2Tkachenko10.dll
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\obj\Debug\net8.0\Lab2Tkachenko10.pdb
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\obj\Debug\net8.0\Lab2Tkachenko10.genruntimeconfig.cache
+C:\Users\Student\Documents\101pTK\Lab2Tkachenko10\Lab2Tkachenko10\obj\Debug\net8.0\ref\Lab2Tkachenko10.dll
