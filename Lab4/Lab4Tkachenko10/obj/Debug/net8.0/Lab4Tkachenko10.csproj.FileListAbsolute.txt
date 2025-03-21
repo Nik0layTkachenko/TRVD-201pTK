@@ -1,0 +1,14 @@
+S:\DZ\Lab4Tkachenko10\bin\Debug\net8.0\Lab4Tkachenko10.exe
+S:\DZ\Lab4Tkachenko10\bin\Debug\net8.0\Lab4Tkachenko10.deps.json
+S:\DZ\Lab4Tkachenko10\bin\Debug\net8.0\Lab4Tkachenko10.runtimeconfig.json
+S:\DZ\Lab4Tkachenko10\bin\Debug\net8.0\Lab4Tkachenko10.dll
+S:\DZ\Lab4Tkachenko10\bin\Debug\net8.0\Lab4Tkachenko10.pdb
+S:\DZ\Lab4Tkachenko10\obj\Debug\net8.0\Lab4Tkachenko10.GeneratedMSBuildEditorConfig.editorconfig
+S:\DZ\Lab4Tkachenko10\obj\Debug\net8.0\Lab4Tkachenko10.AssemblyInfoInputs.cache
+S:\DZ\Lab4Tkachenko10\obj\Debug\net8.0\Lab4Tkachenko10.AssemblyInfo.cs
+S:\DZ\Lab4Tkachenko10\obj\Debug\net8.0\Lab4Tkachenko10.csproj.CoreCompileInputs.cache
+S:\DZ\Lab4Tkachenko10\obj\Debug\net8.0\Lab4Tkachenko10.dll
+S:\DZ\Lab4Tkachenko10\obj\Debug\net8.0\refint\Lab4Tkachenko10.dll
+S:\DZ\Lab4Tkachenko10\obj\Debug\net8.0\Lab4Tkachenko10.pdb
+S:\DZ\Lab4Tkachenko10\obj\Debug\net8.0\Lab4Tkachenko10.genruntimeconfig.cache
+S:\DZ\Lab4Tkachenko10\obj\Debug\net8.0\ref\Lab4Tkachenko10.dll
