@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Брендовий костюм трійка з бомбером</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Панель -->
+    <nav class="breadcrumbs">
+        <a href="#">Головна</a> / 
+        <a href="#">Футболки</a> / 
+        <span>Брендовий костюм трійка з бомбером</span>
+    </nav>
+
+    <main class="product-page">
+
+        <!-- Ліва колонка з фото -->
+        <div class="product-gallery">
+            <div class="gallery-thumbs">
+                <img src="img/look1.jpg" alt="Костюм бежевий" class="thumb active">
+                <img src="img/look2.jpg" alt="Костюм блакитний" class="thumb">
+            </div>
+            <div class="gallery-main">
+                <img src="img/look1.jpg" alt="Костюм головне фото" id="mainImage">
+            </div>
+        </div>
+
+        <!-- Права колонка з описом -->
+        <div class="product-info">
+            <h1>Брендовий костюм трійка з бомбером</h1>
+            <div class="price">3,650 ₴</div>
+
+            <p class="description">
+                Стильний і комфортний костюм виготовлений з легкої та приємної до тіла тканини. <br>
+                Весь комплект – 3650; Тільки куртка – 2150; Тільки штани – 1100; Тільки футболка – 750.
+            </p>
+
+            <!-- Колір -->
+            <div class="options">
+                <label>Колір:</label>
+                <div class="colors">
+                    <span class="color blue active" data-color="Блакитний"></span>
+                    <span class="color beige" data-color="Бежевий"></span>
+                </div>
+            </div>
+
+            <!-- Розмір -->
+            <div class="options">
+                <label>Розмір:</label>
+                <div class="sizes">
+                    <button data-size="S">S</button>
+                    <button data-size="M">M</button>
+                    <button data-size="L">L</button>
+                    <button data-size="XL">XL</button>
+                </div>
+            </div>
+
+            <!-- Кнопка -->
+            <div class="add-to-cart">
+                <div class="quantity">
+                    <button id="decrease">-</button>
+                    <input type="text" id="quantity" value="1" readonly>
+                    <button id="increase">+</button>
+                </div>
+                <button class="btn-cart">ДОДАТИ В КОШИК</button>
+            </div>
+
+            <!-- Додаткові посилання -->
+            <div class="extra-links">
+                <a href="#">♡ Додати до списку бажань</a>
+                <a href="#">📏 Таблиця розмірів</a>
+            </div>
+
+            <div class="meta">
+                <p><strong>Артикул:</strong> 64117</p>
+                <p><strong>Категорії:</strong> Весна-Літо, Куртки, Прогулянкові костюми, Футболки, Штани</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Підключення JS -->
+    <script src="script.js"></script>
+</body>
+</html>
